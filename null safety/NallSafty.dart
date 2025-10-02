@@ -1,6 +1,6 @@
 void main() {
   int num;
-  print(num); // this non-nullable
+  // print(num); // this non-nullable
 
   print("****** String *********");
   String? myName;
